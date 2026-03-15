@@ -1,6 +1,9 @@
 # Swiggy-Food-Order-Data-Analysis-Using-SQL
 This project analyzes Swiggy food order data using SQL. It includes data cleaning, data validation, creation of dimension and fact tables, and business analysis queries to extract useful insights such as total orders, revenue, top dishes, top restaurants, and order trends.
 
+## Dataset 
+Swiggy Data - https://github.com/gohitha-meghana/Swiggy-Food-Order-Data-Analysis-Using-SQL/blob/main/Swiggy_Data_1.csv
+
 ## Project Objectives
 To clean and validate Swiggy order data ,
 To design a star schema database model ,
