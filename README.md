@@ -46,5 +46,5 @@ Category-wise order volume ,
 Price range distribution ,
 Rating distribution .
 
-## Dasnboard preview 
-Swiggy Data Dashboard - 
+## preview 
+Swiggy Data - https://github.com/gohitha-meghana/Swiggy-Food-Order-Data-Analysis-Using-SQL/blob/main/swiggy_data_sql.sql 
